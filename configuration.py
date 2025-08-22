@@ -1,3 +1,3 @@
-URL_SERVICE = ("https://cnt-80e76bfa-610a-4f9f-8d2f-2bdaf0ffe49a.containerhub.tripleten-services.com")# Inserta tu dirección de URL sin la barra diagonal al final
+URL_SERVICE = ("https://cnt-42c792e6-1b97-4484-9f79-07f7a3ad345e.containerhub.tripleten-services.com")# Inserta tu dirección de URL sin la barra diagonal al final
 CREATE_USER_PATH = "/api/v1/users"# Almacena la ruta para crear un usuario o usuaria en esta variable
 KITS_PATH = "/api/v1/kits" # Almacena la ruta para crear un kit en esta variable
