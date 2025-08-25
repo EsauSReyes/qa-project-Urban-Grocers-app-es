@@ -35,9 +35,10 @@ kit_body_6 = {
 kit_body_7 = {
     "name": "123",
 }
-kit_body_8 = {
-    "name":{}
-}
+kit_body_8 = kit_name.copy()
+kit_body_8.pop("name")
+              
+
 kit_body_9 = {
     "name":{123}
 }
