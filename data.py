@@ -40,7 +40,7 @@ kit_body_8.pop("name")
               
 
 kit_body_9 = {
-    "name":{123}
+    "name":123
 }
 
 
